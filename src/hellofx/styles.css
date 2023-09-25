@@ -1,0 +1,14 @@
+/* styles.css */
+.root {
+    -fx-background-color: linear-gradient(to bottom, #4A90E2, #003366);
+}
+
+
+
+#lblTitle{
+    -fx-text-fill: rgb(242, 242, 242); 
+    -fx-font-size: 20px; 
+    -fx-stroke: rgb(158, 2, 2); 
+    -fx-stroke-width: 10px; 
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.6), 5, 0, 0, 2); 
+}
